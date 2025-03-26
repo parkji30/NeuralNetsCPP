@@ -1,3 +1,0 @@
-/home/ubuntu/compile_stuff/matrixcpp/build/CMakeFiles/matrixcpp.dir
-/home/ubuntu/compile_stuff/matrixcpp/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/compile_stuff/matrixcpp/build/CMakeFiles/rebuild_cache.dir
