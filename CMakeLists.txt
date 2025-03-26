@@ -6,6 +6,6 @@ find_package(Eigen3 CONFIG REQUIRED)
 
 set(CMAKE_CXX_STANDARD 20) # Use c++20 standard
 
-add_executable(matrixcpp main.cpp)
+add_executable(matrixcpp NeuralNetCpp/main.cpp)
 
 target_link_libraries(matrixcpp PRIVATE Eigen3::Eigen)
